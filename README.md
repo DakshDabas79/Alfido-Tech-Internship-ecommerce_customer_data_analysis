@@ -24,5 +24,5 @@ To perform an in-depth exploratory data analysis (EDA) on an e-commerce customer
 - Customer segmentation based on behavior
 - Custom-defined ratios and what they reveal
 
-- 
+
 ✅ Status: Completed and Submitted Created by: Daksh Dabas | 🕒 July 2025
